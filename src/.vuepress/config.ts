@@ -7,7 +7,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "Head First Tech",
-  description: "深入浅出搞懂技术知识",
+  description: "深入浅出技术系列",
 
   theme,
 
